@@ -27,7 +27,7 @@
 | **Python** | Codédex | [Ver Credencial 🔗](https://www.codedex.io/certificates/df5fefc7-df7c-47e0-9a7f-0f56a76f56c9) |
 | **Javascript** | Codédex | [Ver Credencial 🔗](https://www.codedex.io/certificates/bb19fe8d-7987-4d4a-94e7-4eb31509d6f8) |
 | **HTML** | Codédex | [Ver Credencial 🔗](https://www.codedex.io/certificates/01cea2b0-856c-4cdb-85f1-5baac061fffc) |
-| **C++ Básico** | Cisco NetAcad | [📄 Ver Certificado Guardado]() |
+| **C++ Básico** | Cisco NetAcad | [📄 Ver Certificado Guardado](./Certificado CPP/Partner-_CPA_-_Programming_Essentials_in_C--_certificate_santisanchez21456-gmail-com_0cb54b94-95a0-4fc8-9653-fa59570cb83c.pdf) |
 | **C++ Intermedio** | Sololearn | [Ver Credencial 🔗](https://www.sololearn.com/certificates/CC-UKMCI5XS) |
 
 
