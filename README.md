@@ -25,7 +25,7 @@
 
 ## 🏆 Proyectos Destacados
 
-### 🧭 [StudyGuide-Gen: Asistente de Estructuración Académica]([https://github.com/SantiagoSanchezVargas/Academic-North](https://github.com/SantiagoSanchezVargas/StudyGuide-Gen))
+### 🧭 [StudyGuide-Gen: Asistente de Estructuración Académica](https://github.com/SantiagoSanchezVargas/StudyGuide-Gen))
 **"El norte para tus entregas académicas"**. Aplicación de escritorio que utiliza procesamiento de texto para estructurar el caos universitario.
 - **Smart Roadmaps:** Genera automáticamente guías de laboratorio y pasos a seguir detectando palabras clave en tus apuntes.
 - **Bibliografía Inteligente:** Extractor de citas en formato APA/IEEE mediante **Regex** con panel de inspección en tiempo real.
