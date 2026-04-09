@@ -1,7 +1,7 @@
 # Santiago Sánchez Vargas
 
-### Desarrollador de Software | Backend & Laravel Enthusiast
-*Enfocado en crear soluciones eficientes y escalables.*
+### Desarrollador de Software | Backend & Python Enthusiast
+*Enfocado en crear soluciones eficientes, escalables y orientadas al usuario.*
 
 <p align="center">
   <a href="https://github.com/SantiagoSanchezVargas">
@@ -19,34 +19,42 @@
 
 ## 🚀 Sobre Mí
 - 🎓 Estudiante de Ingeniería de Sistemas y Computación.
-- 🔭 Actualmente trabajando en un sistema de **Cuentas de Cobro y Facturación Electrónica** (Laravel).
-- 🌱 Especializándome en **Arquitecturas Modernas de UI/UX** con Python y **Laravel 12**.
+- 🔭 Actualmente trabajando en un sistema de **Cuentas de Cobro y Facturación Electrónica** (Laravel 12).
+- 🌱 Especializándome en **Procesamiento de Datos y UI Avanzada** con Python.
 - ⚡ Dato curioso: Me gusta dejar el código tan limpio que "parezca que cerramos el estadio".
 
-## 🏆 Proyecto Destacado
-### [Gestor de Tareas Universitarias PRO++](https://github.com/SantiagoSanchezVargas/GestorTareasUniversitarias)
-Una aplicación de escritorio moderna que redefine la gestión académica.
-- **UI/UX Moderna:** Migración completa a **CustomTkinter** con diseño de tarjetas estilo Notion.
-- **Inteligencia de Datos:** Sistema de onboarding personalizado con persistencia en JSON (perfil de usuario y materias).
-- **Background Engine:** Ejecución en segundo plano (System Tray) con notificaciones nativas de Windows para entregas próximas.
-- **Tech Stack:** Python, CustomTkinter, Pystray, Threading, JSON.
+## 🏆 Proyectos Destacados
+
+### 🧭 [StudyGuide-Gen: Asistente de Estructuración Académica]([https://github.com/SantiagoSanchezVargas/Academic-North](https://github.com/SantiagoSanchezVargas/StudyGuide-Gen))
+**"El norte para tus entregas académicas"**. Aplicación de escritorio que utiliza procesamiento de texto para estructurar el caos universitario.
+- **Smart Roadmaps:** Genera automáticamente guías de laboratorio y pasos a seguir detectando palabras clave en tus apuntes.
+- **Bibliografía Inteligente:** Extractor de citas en formato APA/IEEE mediante **Regex** con panel de inspección en tiempo real.
+- **Arquitectura Side-by-Side:** Interfaz de doble panel para comparar texto original vs. datos procesados.
+- **Tech Stack:** Python, CustomTkinter, Regex (re), JSON Persistence.
+
+### 📅 [Gestor de Tareas Universitarias PRO++](https://github.com/SantiagoSanchezVargas/GestorTareasUniversitarias)
+Herramienta de productividad integral con notificaciones nativas y diseño moderno.
+- **UI/UX:** Diseño basado en tarjetas estilo Notion con **CustomTkinter**.
+- **Background Engine:** Ejecución en segundo plano con alertas directas al System Tray de Windows.
+- **Tech Stack:** Python, Pystray, Threading, JSON.
 
 ## 🛠 Stack Tecnológico
+
 ### Lenguajes e Infraestructura
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ### Frameworks & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/LARAVEL_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/CUSTOM_TKINTER-2C3E50?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REGEX-000000?style=for-the-badge&logo=regex&logoColor=white" />
   <img src="https://img.shields.io/badge/GITHUB%20COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## 📜 Certificaciones Destacadas
