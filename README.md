@@ -45,8 +45,10 @@ Herramienta de productividad integral con notificaciones nativas y diseño moder
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
 ### Frameworks & Tools
@@ -62,7 +64,9 @@ Herramienta de productividad integral con notificaciones nativas y diseño moder
 | :--- | :--- | :---: |
 | **Python** | Codédex | [📜 Ver](https://www.codedex.io/certificates/df5fefc7-df7c-47e0-9a7f-0f56a76f56c9) |
 | **C++ Básico** | Cisco NetAcad | [📄 Ver](https://github.com/SantiagoSanchezVargas/SantiagoSanchezVargas/tree/main/Certificado%20CPP) |
+| **C++ Intermedio** | Sololearn | [📄 Ver](https://www.sololearn.com/certificates/CC-UKMCI5XS) |
 | **Javascript** | Codédex | [📜 Ver](https://www.codedex.io/certificates/bb19fe8d-7987-4d4a-94e7-4eb31509d6f8) |
+| **HTML** | Codédex | [📜 Ver](https://www.codedex.io/certificates/01cea2b0-856c-4cdb-85f1-5baac061fffc) |
 
 ## 📊 Estadísticas
 ![Estadísticas de Santiago](https://github-readme-stats.vercel.app/api?username=SantiagoSanchezVargas&show_icons=true&theme=tokyonight)
