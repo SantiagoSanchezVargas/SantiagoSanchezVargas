@@ -67,6 +67,7 @@ Herramienta de productividad integral con notificaciones nativas y diseño moder
 | **C++ Intermedio** | Sololearn | [📄 Ver](https://www.sololearn.com/certificates/CC-UKMCI5XS) |
 | **Javascript** | Codédex | [📜 Ver](https://www.codedex.io/certificates/bb19fe8d-7987-4d4a-94e7-4eb31509d6f8) |
 | **HTML** | Codédex | [📜 Ver](https://www.codedex.io/certificates/01cea2b0-856c-4cdb-85f1-5baac061fffc) |
+| **Gen AI** | Sololearn | [📜 Ver](https://www.sololearn.com/certificates/CC-XFTTGMZH) |
 
 ## 📊 Estadísticas
 ![Estadísticas de Santiago](https://github-readme-stats.vercel.app/api?username=SantiagoSanchezVargas&show_icons=true&theme=tokyonight)
