@@ -17,28 +17,28 @@
 
 ---
 
-## 🚀 Sobre Mí
-- 🎓 Estudiante de Ingeniería de Sistemas y Computación.
-- 🔭 Actualmente trabajando en un sistema de **Cuentas de Cobro y Facturación Electrónica** (Laravel 12).
-- 🌱 Especializándome en **Procesamiento de Datos y UI Avanzada** con Python.
-- ⚡ Dato curioso: Me gusta dejar el código tan limpio que "parezca que cerramos el estadio".
+## Sobre Mí
+- Estudiante de Ingeniería de Sistemas y Computación.
+- Actualmente trabajando en un sistema de **Cuentas de Cobro y Facturación Electrónica** (Laravel 12).
+- Especializándome en **Procesamiento de Datos y UI Avanzada** con Python.
+- Dato curioso: Me gusta dejar el código tan limpio que "parezca que cerramos el estadio".
 
-## 🏆 Proyectos Destacados
+## Proyectos Destacados
 
-### 🧭 [StudyGuide-Gen: Asistente de Estructuración Académica](https://github.com/SantiagoSanchezVargas/StudyGuide-Gen))
+### [StudyGuide-Gen: Asistente de Estructuración Académica](https://github.com/SantiagoSanchezVargas/StudyGuide-Gen))
 **"El norte para tus entregas académicas"**. Aplicación de escritorio que utiliza procesamiento de texto para estructurar el caos universitario.
 - **Smart Roadmaps:** Genera automáticamente guías de laboratorio y pasos a seguir detectando palabras clave en tus apuntes.
 - **Bibliografía Inteligente:** Extractor de citas en formato APA/IEEE mediante **Regex** con panel de inspección en tiempo real.
 - **Arquitectura Side-by-Side:** Interfaz de doble panel para comparar texto original vs. datos procesados.
 - **Tech Stack:** Python, CustomTkinter, Regex (re), JSON Persistence.
 
-### 📅 [Gestor de Tareas Universitarias PRO++](https://github.com/SantiagoSanchezVargas/GestorTareasUniversitarias)
+### [Gestor de Tareas Universitarias PRO++](https://github.com/SantiagoSanchezVargas/GestorTareasUniversitarias)
 Herramienta de productividad integral con notificaciones nativas y diseño moderno.
 - **UI/UX:** Diseño basado en tarjetas estilo Notion con **CustomTkinter**.
 - **Background Engine:** Ejecución en segundo plano con alertas directas al System Tray de Windows.
 - **Tech Stack:** Python, Pystray, Threading, JSON.
 
-## 🛠 Stack Tecnológico
+## Stack Tecnológico
 
 ### Lenguajes e Infraestructura
 <p align="center">
@@ -59,7 +59,7 @@ Herramienta de productividad integral con notificaciones nativas y diseño moder
   <img src="https://img.shields.io/badge/GITHUB%20COPILOT-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
-## 📜 Certificaciones Destacadas
+## Certificaciones Destacadas
 | Curso | Plataforma | Credencial |
 | :--- | :--- | :---: |
 | **Python** | Codédex | [📜 Ver](https://www.codedex.io/certificates/df5fefc7-df7c-47e0-9a7f-0f56a76f56c9) |
@@ -69,5 +69,5 @@ Herramienta de productividad integral con notificaciones nativas y diseño moder
 | **HTML** | Codédex | [📜 Ver](https://www.codedex.io/certificates/01cea2b0-856c-4cdb-85f1-5baac061fffc) |
 | **Gen AI** | Sololearn | [📜 Ver](https://www.sololearn.com/certificates/CC-XFTTGMZH) |
 
-## 📊 Estadísticas
+## Estadísticas
 ![Estadísticas de Santiago](https://github-readme-stats.vercel.app/api?username=SantiagoSanchezVargas&show_icons=true&theme=tokyonight)
